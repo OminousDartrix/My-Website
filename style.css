@@ -4,3 +4,5 @@ p {color: green;}
 i { font-size: 100px;}
 s { font-size: 5px;}
 strong {color: purple}
+img.resize{width:200px; 
+height:200px;}
